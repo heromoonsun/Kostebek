@@ -21,3 +21,7 @@ Hazır VPN yazılımlarından çok farklıdır
 4 - Sunucu tamamen size ait olduğundan IP sinin yasaklanması gibi bir riskiniz 0  dır. Yeterki üçüncü şahıslarla paylaşmayın
     Hiç bir zaman kesintiye uğramazsınız.
     
+5 - Kurumuz SSL sertifikasını devre dışı bıraksada KÖSTEBEK durmaz.
+
+# Eğitim %100 internetle olmalı. Yasaklar değil kurallar koyulmalı.
+    
