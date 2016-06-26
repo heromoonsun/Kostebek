@@ -1,5 +1,5 @@
-# Kostebek
-SSH tan fazlası
+# Kostebek Tunnel
+SSH tan bir satır fazlası
 
 Tamamen kişiseleştirilebilir olduğundan alınacak tüm önlemler anında elimine edilir. SSH hands shake datalarıda şifrelendiğinden
 tespit edilmesi imkansızdır. 
@@ -21,7 +21,7 @@ Hazır VPN yazılımlarından çok farklıdır
 4 - Sunucu tamamen size ait olduğundan IP sinin yasaklanması gibi bir riskiniz 0  dır. Yeterki üçüncü şahıslarla paylaşmayın
     Hiç bir zaman kesintiye uğramazsınız.
     
-5 - Kurumuz SSL sertifikasını devre dışı bıraksada KÖSTEBEK durmaz.
+5 - Kurumuz SSL sertifikasını devre dışı bıraksada KÖSTEBEK durmaz sizin için güvenli tüneller açar.
 
-# Eğitim %100 internetle olmalı. Yasaklar değil kurallar koyulmalı.
+# KÖSTEBEK yasakları değil kuralları sever.
     
