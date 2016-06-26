@@ -3,7 +3,7 @@ SSH tan fazlası
 
 Tamamen kişiseleştirilebilir olduğundan alınacak tüm önlemler anında elimine edilir. SSH hands shake datalarıda şifrelendiğinden
 tespit edilmesi imkansızdır. 
-# Her kesin kendi KÖSTEBEĞİ olsun.
+# Herkesin kendi KÖSTEBEĞİ olsun.
 
 Hazır VPN yazılımlarından çok farklıdır
 
