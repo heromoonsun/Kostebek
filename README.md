@@ -1,4 +1,25 @@
 # Kostebek Tunnel
+
+
+#DİKKAT #DİKKAT #DİKKAT #DİKKAT #DİKKAT 
+
+
+# DÜZENLEME YAPILANA KADAR BU UYGULAMAYI KURUMUNUZDA 
+
+
+
+# KULLANMAYIN
+
+
+
+# ŞİMDİLİK YENİLENİYOR. 
+
+
+
+
+
+
+
 SSH tan bir satır fazlası
 
 Tamamen kişiseleştirilebilir olduğundan alınacak tüm önlemler anında elimine edilir. SSH hands shake datalarıda şifrelendiğinden
